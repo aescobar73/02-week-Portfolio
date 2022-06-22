@@ -1,0 +1,87 @@
+body {
+    background-color: antiquewhite;
+
+}
+
+#name {
+
+    font-size: 40px;
+}
+
+.box {
+    padding: 20px;
+    background-color: blueviolet;
+    color: black;
+}
+
+.box h1 {
+    display: inline-block;
+    font-size: 25px;
+    background-color: blueviolet;
+}
+
+.box div {
+    font-size: 20px;
+    padding-top: 40px;
+    margin-right: 75px;
+    float: right;
+    background-color: blueviolet;
+}
+
+.box div ul li {
+    display: inline-block;
+    padding: 2px;
+    background-color: blueviolet;
+    
+}
+
+
+.box1 {
+    margin: 0;
+    padding: 5px;
+    background-color: aliceblue;
+    
+}
+
+.box2 {
+    margin: 0;
+    padding: 5px;
+    background-color: rgb(110, 110, 141);
+}
+
+.samples {
+
+    margin: 2px;
+    font-size: 120%;
+    background-image: url(./images/GitHub.jpeg);
+}
+
+.samples2 {
+
+    margin: 20px;
+    font-size: 110%;
+    background-image: url(./images/digital-marketing-meeting.jpg);
+}
+
+.samples3 {
+
+    margin: 20px;
+    font-size: 110%;
+    background-image: url(./images/matrix\ copy.jpg);
+}
+
+img {
+    width: 25%;
+}
+
+h3 {
+    background: rgb(167, 125, 125);
+}
+
+.row {
+    display: inline-block;
+    list-style-type: none;
+    margin: 8px;
+    margin-right: 30px;
+    padding: 2px;
+}
