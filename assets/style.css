@@ -53,14 +53,14 @@ body {
 
     margin: 2px;
     font-size: 120%;
-    background-image: url(./images/GitHub.jpeg);
+    background-image: url(./images/Screen\ Shot\ 2022-07-27\ at\ 2.03.22\ PM\ \(2\).jpg);
 }
 
 .samples2 {
 
     margin: 20px;
     font-size: 110%;
-    background-image: url(./images/digital-marketing-meeting.jpg);
+    background-image: url(./images/landing.png);
 }
 
 .samples3 {
@@ -75,7 +75,7 @@ img {
 }
 
 h3 {
-    background: rgb(167, 125, 125);
+    /* background: rgb(167, 125, 125); */
 }
 
 .row {
